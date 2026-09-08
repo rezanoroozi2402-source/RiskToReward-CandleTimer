@@ -1,3 +1,5 @@
+<img width="1920" height="990" alt="screenshot2" src="https://github.com/user-attachments/assets/9d0841fe-6881-4509-88d4-f0fbbcfc5d42" />
+<img width="1921" height="932" alt="screenshot1" src="https://github.com/user-attachments/assets/b7426459-b70e-452f-8484-8ede356888e4" />
 # Risk To Reward (Candle Timer)
 
 A MetaTrader 5 (MQL5) chart indicator that visualizes your trade's risk/reward setup directly on the chart — a Take Profit zone, a Stop Loss zone, live profit/loss progress fills, an info panel (RR ratio, current R multiple, progress %), and a candle countdown timer & spread panel.
@@ -42,7 +44,8 @@ A MetaTrader 5 (MQL5) chart indicator that visualizes your trade's risk/reward s
 
 ## Screenshots
 
-_Add a screenshot of the indicator on a live chart here (drag an image into this section on GitHub, or place it in a `screenshots/` folder and link it: `![screenshot](screenshot1.png) ![screenshot](screenshot1.png)`)._
+<img width="1920" height="990" alt="screenshot2" src="https://github.com/user-attachments/assets/9d0841fe-6881-4509-88d4-f0fbbcfc5d42" />
+<img width="1921" height="932" alt="screenshot1" src="https://github.com/user-attachments/assets/b7426459-b70e-452f-8484-8ede356888e4" />
 
 ## License
 
