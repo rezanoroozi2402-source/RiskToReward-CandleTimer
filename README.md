@@ -42,7 +42,7 @@ A MetaTrader 5 (MQL5) chart indicator that visualizes your trade's risk/reward s
 
 ## Screenshots
 
-_Add a screenshot of the indicator on a live chart here (drag an image into this section on GitHub, or place it in a `screenshots/` folder and link it: `![screenshot](screenshots/example.png)`)._
+_Add a screenshot of the indicator on a live chart here (drag an image into this section on GitHub, or place it in a `screenshots/` folder and link it: `![screenshot](screenshot1.png) ![screenshot](screenshot1.png)`)._
 
 ## License
 
